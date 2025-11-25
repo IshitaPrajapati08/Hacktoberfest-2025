@@ -14,7 +14,9 @@ A big thanks to **DigitalOcean**, **GitHub**, and the open-source community for 
 
 
 ## Connect with Me
-- [GitHub](https://github.com/IshitaPrajapati08)  
+- [GitHub](https://github.com/IshitaPrajapati08)
+
+- ![Snake animation](https://raw.githubusercontent.com/IshitaPrajapati08/IshitaPrajapati08/output/snake.svg)
+
 
 ---
-![Snake animation](https://raw.githubusercontent.com/IshitaPrajapati08/IshitaPrajapati08/output/snake.svg)
