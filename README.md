@@ -17,3 +17,4 @@ A big thanks to **DigitalOcean**, **GitHub**, and the open-source community for 
 - [GitHub](https://github.com/IshitaPrajapati08)  
 
 ---
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
